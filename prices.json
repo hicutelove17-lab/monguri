@@ -15,7 +15,6 @@
     "samsungc": 367000,
     "naver": 189600,
     "shinhanjoo": 107300,
-    "hanwhao": 82000,
     "hyundaimob": 489500,
     "samsunglife": 337500,
     "kepco": 33900,
@@ -31,8 +30,6 @@
     "meta": 661.04,
     "wmt": 113.7,
     "brk": 491.09,
-    "lly": 1152.54,
-    "mu": 983.12,
     "jpm": 342.89,
     "amd": 548.13,
     "xom": 145.09,
@@ -41,6 +38,6 @@
     "orcl": 127.94,
     "cost": 921.75
   },
-  "updated_at": "2026-07-15 09:56 UTC",
-  "count": 40
+  "updated_at": "2026-07-15 11:27 UTC",
+  "count": 37
 }
